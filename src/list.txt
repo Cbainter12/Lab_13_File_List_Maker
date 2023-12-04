@@ -1,0 +1,7 @@
+java
+linux
+ystation
+xbox
+pc
+
+Monitor
